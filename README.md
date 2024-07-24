@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tithisolanki" alt="tithisolanki" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and NLP's**
+- 🌱 I’m currently learning **NLP's**
 
 - 💬 Ask me about **Web Development(Full-Stack)**
 
